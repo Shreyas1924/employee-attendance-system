@@ -47,9 +47,10 @@ EmployeeID,Name,DaysPresent
 
 ## Future Improvements
 
-- Add database support (SQLite/MySQL)
-- Add graphical interface (Tkinter)
-- Add login authentication
+* Add database support (SQLite / MySQL)
+* Create a graphical interface (Tkinter or Web UI)
+* Add login authentication for admin access
+* Export attendance reports to CSV or Excel
 
 ## Author
 
