@@ -45,6 +45,12 @@ EmployeeID,Name,DaysPresent
 5,Shamitha,26
 ```
 
+## Future Improvements
+
+- Add database support (SQLite/MySQL)
+- Add graphical interface (Tkinter)
+- Add login authentication
+
 ## Author
 
 Shreyas
